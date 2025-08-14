@@ -9,7 +9,19 @@ It uses substitutions, random capitalization, numbers, and symbols to create str
 - Copy password to clipboard
 - Show/Hide password
 - Clear input and output
+---
 
+## ⚡ Try It Instantly
+
+Download the pre-built executable for Windows:  
+[Download PassRegulator.exe](https://github.com/Rahmahk02/PassRegulator/raw/main/Updated_PassRegulator.exe)
+
+**Instructions:**
+1. Double-click the downloaded `.exe` file.
+2. Windows may show a security warning. Click **More info → Run anyway** to start the program.
+3. The program will open, and you can start generating passwords immediately.
+
+---
 ## Installation & Run
 **Make sure Python 3.x is installed**  
 1. **Open your terminal / command prompt**  
