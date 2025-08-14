@@ -12,7 +12,16 @@ It uses substitutions, random capitalization, numbers, and symbols to create str
 
 ## Installation & Run
 **Make sure Python 3.x is installed**  
+1. **Open your terminal / command prompt**  
+   - **Windows:** Press `Win + R`, type `cmd` or `powershell`, and hit Enter  
+   - **macOS:** Open **Terminal** from Applications → Utilities  
+   - **Linux:** Open your preferred terminal  
 
+2. **Make sure Python 3.x is installed**  
+   Check by running:
+   ```bash
+   python3 --version
+   ```
 1. **Clone the repo:**
 ```bash
   git clone https://github.com/Rahmahk02/PassRegulator.git
