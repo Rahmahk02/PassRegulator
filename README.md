@@ -14,9 +14,12 @@ It uses substitutions, random capitalization, numbers, and symbols to create str
 1. **Clone the repo:**
 ```bash
   git clone https://github.com/Rahmahk02/PassRegulator.git
+```
+
+```bash
   cd PassRegulator
 ```
 2. **Run the program (Python 3.x required):**
 ```bash
-  python passregulator.py
+  python PassRegulator.py
 ```
