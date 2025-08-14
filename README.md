@@ -15,6 +15,7 @@ It uses substitutions, random capitalization, numbers, and symbols to create str
 ```bash
 git clone https://github.com/Rahmahk02/PassRegulator.git
 cd PassRegulator
-2. Run the program (Python 3.x required):
 
+2. Run the program (Python 3.x required):
 python passregulator.py
+```bash
