@@ -10,7 +10,9 @@ It uses substitutions, random capitalization, numbers, and symbols to create str
 - Show/Hide password
 - Clear input and output
 
-## Installation
+## Installation & Run
+**Make sure Python 3.x is installed**  
+
 1. **Clone the repo:**
 ```bash
   git clone https://github.com/Rahmahk02/PassRegulator.git
