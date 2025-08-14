@@ -44,5 +44,5 @@ Download the pre-built executable for Windows:
 ```
 4. **Run the program (Python 3.x required):**
 ```bash
-  python PassRegulator.py
+  python Updated_PassRegulator.py
 ```
