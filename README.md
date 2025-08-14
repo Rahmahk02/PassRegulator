@@ -32,7 +32,7 @@ Download the pre-built executable for Windows:
 2. **Make sure Python 3.x is installed**  
    Check by running:
    ```bash
-   python3 --version
+   python --version
    ```
 1. **Clone the repo:**
 ```bash
