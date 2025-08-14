@@ -34,7 +34,7 @@ Download the pre-built executable for Windows:
    ```bash
    python --version
    ```
-1. **Clone the repo:**
+3. **Clone the repo:**
 ```bash
   git clone https://github.com/Rahmahk02/PassRegulator.git
 ```
@@ -42,7 +42,7 @@ Download the pre-built executable for Windows:
 ```bash
   cd PassRegulator
 ```
-2. **Run the program (Python 3.x required):**
+4. **Run the program (Python 3.x required):**
 ```bash
   python PassRegulator.py
 ```
