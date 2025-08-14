@@ -18,4 +18,3 @@ cd PassRegulator
 
 2. Run the program (Python 3.x required):
 python passregulator.py
-```bash
